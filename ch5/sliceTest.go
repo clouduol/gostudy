@@ -1,4 +1,4 @@
-// SliceTest test slice as a parameter
+// SliceTest tests slice as a parameter
 package main
 
 import (

@@ -1,4 +1,4 @@
-// Squares demostrates anonymous function
+// Squares demonstrates anonymous function
 package main
 
 import (

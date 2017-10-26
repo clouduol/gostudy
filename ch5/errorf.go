@@ -1,4 +1,4 @@
-// Errorf demostrates function variable length parameters
+// Errorf demonstrates function variable length parameters
 package main
 
 import (

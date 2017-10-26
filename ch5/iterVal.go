@@ -1,4 +1,4 @@
-// IterVal demostrates for statement iteral variables and anonymous function warnings
+// IterVal demonstrates for statement iteral variables and anonymous function warnings
 package main
 
 import (

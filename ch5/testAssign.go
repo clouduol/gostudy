@@ -1,4 +1,4 @@
-// TestAssign test assign for different structures
+// TestAssign tests assign for different structures
 package main
 
 import (
