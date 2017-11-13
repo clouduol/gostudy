@@ -14,6 +14,7 @@ func (b *ByteCounter) Write(p []byte) (n int, err error) { return 0, nil }
 
 func main() {
 	var w io.Writer
+	fmt.Printf("w: %T\n", w)
 	w = os.Stdout
 	f := w.(*os.File)
 	fmt.Printf("f: %T\n", f)
