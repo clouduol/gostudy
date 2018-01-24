@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func Bar(info string) {
+func bar(info string) {
 	fmt.Println(info)
 }
